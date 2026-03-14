@@ -1,5 +1,5 @@
 # Growth-Remodelling
-this repository will contain relevant data for published papers in the field of Growth and remodelling
+This repository will contain relevant data for published papers in the field of Growth and remodelling
 
 ## Paper 1: LV-MI-GR-CMM
 
